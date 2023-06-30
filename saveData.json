@@ -8,7 +8,7 @@
    {
       "sceneName":"Level 2",
       "level":2,
-      "time":30,
+      "time":50,
       "active":true
    },
    {
@@ -26,7 +26,7 @@
    {
       "sceneName":"chompers",
       "level":5,
-      "time":30,
+      "time":90,
       "active":true
    },
    {
