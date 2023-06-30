@@ -1,62 +1,50 @@
 [
    {
+      "sceneName":"Level 1",
       "level":1,
       "time": 30,
       "active": true
    },
    {
+      "sceneName":"Level 2",
       "level":2,
       "time": 30,
       "active": true
    },
    {
+      "sceneName":"easy gap",
       "level":3,
       "time": 30,
       "active": true
    },
    {
+      "sceneName":"U-turn",
       "level":4,
       "time": 30,
       "active": true
    },
    {
+      "sceneName":"chompers",
       "level":5,
       "time": 30,
       "active": true
    },
    {
+      "sceneName":"guantlet",
       "level":6,
       "time": 30,
       "active": true
    },
    {
+      "sceneName":"Darkness",
       "level":7,
       "time": 30,
       "active": true
    },
    {
+      "sceneName":"thread needle",
       "level":8,
       "time": 30,
       "active": true
-   },
-   {
-      "level":9,
-      "time": 30,
-      "active": true
-   },
-   {
-      "level":10,
-      "time": 30,
-      "active": true
-   },
-   {
-      "level":11,
-      "time": 30,
-      "active": true
-   },
-   {
-      "level":12,
-      "time": 30,
-      "active": true
-   },
-  
+   }
+] 
