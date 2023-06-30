@@ -1,1 +1,62 @@
-{"playerId":"Player123","levelReach":1}
+[
+   {
+      "level":1,
+      "time": 30,
+      "active": true
+   },
+   {
+      "level":2,
+      "time": 30,
+      "active": true
+   },
+   {
+      "level":3,
+      "time": 30,
+      "active": true
+   },
+   {
+      "level":4,
+      "time": 30,
+      "active": true
+   },
+   {
+      "level":5,
+      "time": 30,
+      "active": true
+   },
+   {
+      "level":6,
+      "time": 30,
+      "active": true
+   },
+   {
+      "level":7,
+      "time": 30,
+      "active": true
+   },
+   {
+      "level":8,
+      "time": 30,
+      "active": true
+   },
+   {
+      "level":9,
+      "time": 30,
+      "active": true
+   },
+   {
+      "level":10,
+      "time": 30,
+      "active": true
+   },
+   {
+      "level":11,
+      "time": 30,
+      "active": true
+   },
+   {
+      "level":12,
+      "time": 30,
+      "active": true
+   },
+  
